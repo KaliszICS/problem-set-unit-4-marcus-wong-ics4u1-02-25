@@ -1,0 +1,10 @@
+K(30%): -84
+I(30%): 78
+C(10%): 80
+A(30%): 79
+Missing javadocs for everything besides the start of the file in Player and DiscardPile
+Need to check that obj is a Card before converting
+don't need an if statement for the final check of it, can just return the condition.
+reshuffle should take a Card[] to reshuffle.
+DiscardPile is missing removeAll and toString
+Player card missing almost everything
